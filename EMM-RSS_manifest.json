@@ -1,0 +1,6 @@
+{
+  "name": "EMM News Brief",
+  "description": "This plugin fetches news briefs based on specified criteria.",
+  "icon": "https://example.com/icon.png",
+  "openapi_spec_url": "https://yourdomain.com/emm-news-brief-openapi.yaml"
+}
